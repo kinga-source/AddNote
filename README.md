@@ -1,1 +1,1 @@
-# AddNote
+[![note](http://img.youtube.com/vi/nNgHfWpSDCQ/0.jpg)](http://www.youtube.com/watch?v=nNgHfWpSDCQ "JS CSS Note")
